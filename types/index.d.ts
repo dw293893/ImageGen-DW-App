@@ -94,7 +94,7 @@ declare type TransformationTypeKey = | "restore" | "fill" | "remove" | "recolor"
 
 // ==== URL QUERY PARAMS
 
-declare type FormUrlQUeryParams = {
+declare type FormUrlQueryParams = {
     searchParams: string;
     key: string;
     value: string | number | null;
